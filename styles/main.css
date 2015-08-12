@@ -1,0 +1,57 @@
+/******header******/
+
+body {
+}
+a {
+text-decoration: none;
+}
+#wrapper {
+max-width: 1000px;
+  margin: 0 auto;
+  padding: 0;
+  
+}
+
+.text {
+
+	 font: 1.55em/1.25 "open-sans";
+}
+
+#logo {
+text-align: center;
+  margin: 0;
+}
+
+a {
+color: #09049F;
+}
+header {
+	background: #909090;
+	font-size: 25px;
+	list-style-type: none;
+}
+nav ul {
+list-style: none;
+}
+
+<h1> {
+	font-size: 100px;
+margin: 50%;
+padding: 45%
+}
+</h1>
+a:visited {
+	color: #FF0004;
+}
+ul {
+list-style: none;
+width: 85%;
+
+}
+
+.photo {
+
+	max-width:200px; max-height: 100px;
+	float: center;
+	padding: 40px;
+}
